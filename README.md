@@ -22,7 +22,7 @@
 7. Run Effects
 
 
-## 3. unMounting
+## 3. Unmounting
 
 1. cleanup LayoutEffects
 2. cleanup Effects
