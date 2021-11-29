@@ -20,3 +20,9 @@
 5. Browser Paints Screen
 6. Cleanup Effects
 7. Run Effects
+
+
+## 3. unMounting
+
+1. cleanup LayoutEffects
+2. cleanup Effects
